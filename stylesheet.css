@@ -1,0 +1,192 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+body {
+	font-family:"HelveticaNeueW01-55Roma";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://in.pinterest.com/pin/686095324459996489/);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.home{
+  background-color: #239b76;
+}
+
+.about {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.contact {
+  background-color: #55acee;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+/* Change fa's margin-right to 5px */
+.fa {
+  margin-right:5px;
+}
+
+
+
+
+.li {
+	list-style:none;
+}
+
+.header {
+	background-color:#eaf7ff;
+	color: #fff;
+    height: 90px;
+}
+
+.header-name {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+  color:#000b12;
+}
+
+.header-list li{
+	 float: left;
+     padding: 33px 20px;
+     color:#000b12;
+}
+
+.main {
+	background-color:#fef7f7;
+	height: 600px;
+  padding:100px 80px;
+}
+
+.copy-container h1 {
+  font-size:140px;
+}
+
+
+
+.copy-container h2 {
+  font-size:60px;
+}
+
+
+
+
+.copy-container span {
+  color:#000b12;
+}
+
+.contents {
+  height: 500px;
+  margin-top: 100px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.contents-item {
+  float: left;
+  margin-right: 40px;
+}
+
+.contents-item p {
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.contact-form {
+  padding-top: 100px;
+}
+
+input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
+
+ 
+
+
+

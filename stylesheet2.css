@@ -1,0 +1,29 @@
+body {
+	font-family:"HelveticaNeueW01-55Roma";
+}
+
+.main {
+	background-color:#fef7f7;
+	height: 600px;
+  padding:100px 80px;
+}
+
+.htittle {
+	color:#000b12
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.home{
+  background-color: #239b76;
+}
